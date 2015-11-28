@@ -1,2 +1,2 @@
 # nmrs
-# just a simple readme file
+# a repository to store script that calculate reliability rate for nmrs design
